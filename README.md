@@ -13,13 +13,23 @@ Cada carpeta corresponde a una clase, donde encontrarás en su mayoría **notebo
 ---
 
 
-## Ejercicio : Programa interactivo Calcular edad
+## Ejercicio: Programa interactivo Calcular edad
 
 En este notebook vamos a construir un programa paso a paso que:  
 1. Solicita el nombre y el año de nacimiento del usuario.  
 2. Calcula la edad basándose en el año actual.  
 3. Determina si la persona es mayor de edad.  
 4. Muestra un saludo personalizado con el nombre y la edad.
+
+---
+
+# 🛒 Ejercicio: Programa interactivo de Lista de Compras
+
+En este notebook vamos a construir paso a paso un programa que:  
+1. Pide al usuario el nombre y precio de 3 productos.  
+2. Guarda cada producto en una estructura manejando **nombre y precio** juntos.  
+3. Calcula el total de la compra y encuentra el producto más caro.  
+4. Muestra al usuario un resumen claro con la lista de productos, el total y el producto más costoso.
 
 
 ## ✨ Próximos pasos ... 
